@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victortx" alt="victortx" /></a> </p>
 
-- 🔭 I’m currently working on **Humand Brands Guatemala**
+- 🔭 I’m currently working on **Human Brands Guatemala**
 
 - 🌱 I’m currently learning **Django(REST), .net Framework, Angular, React**
 
